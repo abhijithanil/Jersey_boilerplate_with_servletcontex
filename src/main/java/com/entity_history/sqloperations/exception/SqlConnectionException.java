@@ -1,4 +1,4 @@
-package com.entity_history.sqloperations;
+package com.entity_history.sqloperations.exception;
 
 import org.apache.log4j.Logger;
 

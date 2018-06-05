@@ -1,7 +1,7 @@
 package com.entity_history.sqloperations;
 
 import com.entity_history.configurationloader.ConfigurationLoader;
-import com.sun.jersey.api.core.ResourceConfig;
+import com.entity_history.sqloperations.exception.SqlConnectionException;
 import com.sun.jersey.spi.resource.Singleton;
 import org.apache.log4j.Logger;
 
